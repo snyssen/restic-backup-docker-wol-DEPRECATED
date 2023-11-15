@@ -1,3 +1,8 @@
+# This project has been deprecated in favor of [snyssen/restic-backup-docker-wol](https://github.com/snyssen/restic-backup-docker-wol)
+**The above project should better follow the original project ([lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker)) updates.**
+
+---
+
 # Restic Backup Docker Container
 A docker container to automate [restic backups](https://restic.github.io/)
 
